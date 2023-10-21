@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4nyJ.webp",
+            "title": "standoff 2 assistant 1",
+            "text_Content_": "Allow users to customize their in-game loadouts, weapons, and equipment. Provide recommendations for the best loadouts based on their playstyle and preferences."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4xTv.webp",
+            "title": "standoff 2 assistant 2",
+            "text_Content_": "Offer tips, tactics, and strategies for different maps and game modes. Include videos or interactive guides for better understanding."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4Cva.webp",
+            "title": "standoff 2 assistant 3",
+            "text_Content_": "Provide real-time statistics on a player's performance, such as kills, deaths, accuracy, and objectives completed."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4BYg.webp",
+            "title": "standoff 2 assistant 4",
+            "text_Content_": "Create interactive maps with key locations, hiding spots, and strategies for each map in Standoff 2."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK43CB.webp",
+            "title": "standoff 2 assistant 5",
+            "text_Content_": "Facilitate team coordination by offering a chat feature where players can discuss tactics and strategies before and during the game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4FEP.webp",
+            "title": "standoff 2 assistant 6",
+            "text_Content_": "Implement voice commands to quickly communicate with teammates during matches without the need to type."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4K41.webp",
+            "title": "standoff 2 assistant 7",
+            "text_Content_": "Enable players to trade gun skins and provide a valuation feature to help users determine the value of their skins."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JKK4q3F.webp",
+            "title": "standoff 2 assistant 8",
+            "text_Content_": "Allow users to create profiles, view their statistics, and share their in-game achievements on social media."
         }
     ]
 }
